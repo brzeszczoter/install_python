@@ -111,3 +111,7 @@ UpgradeLog*.XML
 *~
 *.swo
 *.swp
+
+# Git ignore for Powershell (just in case)
+
+
