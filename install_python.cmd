@@ -9,4 +9,8 @@ pause
 :: Practice pull request aimed at Agilezen card #30
 :: Another practice line: did not work last time. Target: #30
 :: Attempt number two to get this commit to synchronize with agile zen card #30
+<<<<<<< HEAD
 :: Attempt number three. Agile zen card #30, come in please
+=======
+:: Hey, maybe it is broken on github end #30
+>>>>>>> Is number #30 there
